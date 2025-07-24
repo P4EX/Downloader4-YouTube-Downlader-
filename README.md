@@ -1,3 +1,4 @@
+```
 M""""""'YMM                              dP                         dP                   dP   dP 
 M  mmmm. `M                              88                         88                   88   88 
 M  MMMMM  M .d8888b. dP  dP  dP 88d888b. 88 .d8888b. .d8888b. .d888b88 .d8888b. 88d888b. 88aaa88 
@@ -5,8 +6,12 @@ M  MMMMM  M 88'  `88 88  88  88 88'  `88 88 88'  `88 88'  
 M  MMMM' .M 88.  .88 88.88b.88' 88    88 88 88.  .88 88.  .88 88.  .88 88.  ... 88            88 
 M       .MM `88888P' 8888P Y8P  dP    dP dP `88888P' `88888P8 `88888P8 `88888P' dP            dP 
 MMMMMMMMMMM                                                                                      
-                                                                                                 
-A simple YouTube MP3/MP4 and Playlists Downloader
+
+A simple YouTube MP3/MP4 and Playlists Downloader                                                                                          
+                                                                                                                               
+```
+                                                                                              
+---
 
 ## Features
 - Download single YouTube videos as MP3 or MP4
